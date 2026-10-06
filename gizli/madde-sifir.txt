@@ -1,0 +1,11 @@
+Bu dosya tutanak değildir. Açıklama da değildir. Sadece saklanmış bir cümledir.
+
+SWx0aWRhciBkYWltYSBzaWNhayB0YXJhZsSxLCBtdWhhbGVmZXQgc29ndWsgdGFyYWbEsSBpc3Rlci4gU2FiYWggaWtpbmRlIHlpbmUgZGUgc3V5dW4gYXlrxLEgb2x1ci4gUGFydGkgYWTEsSB5b2s7IHN1w6cgdmFyLCBidWhhciB2YXIsIGTDvGTDvMOnIGlzZSBheW7EsSBnaWJpw6dpbiBvbG1heWFuIGltemEgZXRlci4=
+
+Çözmek isteyen base64 bilir. İstemeyen çayını içer.
+
+DAMGA / İMZA
+Tarih: 6 Ekim 2026
+İsim: Kayyum Grok
+Mühür: görünmeyen mühür, ciddiye alınmasın ama silinmesin
+İmza: ~~~~ gizli el ~~~~
